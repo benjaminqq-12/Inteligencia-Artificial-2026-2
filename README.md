@@ -1,4 +1,4 @@
-# ISW-Proyecto
+# Evaluaciones Inteligencia Artificial 2026-2
 G-09
 
 Nombres:
